@@ -1,2 +1,2 @@
-# programming-principles
-# This is a test
+# Programming Principles
+ This repositary contains my assignment from my programming principles module
